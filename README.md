@@ -23,7 +23,7 @@ Once wireless communication is implemented, we are open to exploring additional 
 
 - [x] USB pinout reverse engineering completed ([details](./research/Controller_Boards.md))
 - [x] Basic wired proof-of-concept showing the possibility ([demo video](https://youtu.be/daWLg8Y8ThU))
-- [ ] Design FFC to USB-C Breakout PCB
+- [x] Design FFC to USB-C Breakout PCB ([details](./pcb-designs/ffc-usb-breakout))
   - For development purposes
   - [Optional] for wired-only controller builds
 - [ ] Design 3D printable shell prototype (_Resin / FDM / SLS is TDB_)
